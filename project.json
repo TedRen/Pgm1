@@ -1,0 +1,10 @@
+{
+    "name": "Pgm1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Pgm1.xml",
+    "author": "TedRen",
+    "minimum_firmware_version": 42
+}
